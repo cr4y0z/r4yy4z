@@ -8,7 +8,7 @@
 - I have coded major projects in Python like a budget calculator and a flashcards application using Tkinter.
 - I know arithmetic skills.
   
-Thank you, THINKPAD. (lol)
+Thank you, THINKPAD!! (lol)
 <!---
 r4yy4z/r4yy4z is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 You can click the Preview link to take a look at your changes.
