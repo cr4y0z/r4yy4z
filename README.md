@@ -1,4 +1,4 @@
-- 👋 Hi, I’m @r4yy4z (Rayyan Moinudeen)
+- 👋 Hi, I’m @cr4y0z (Rayyan Moinudeen)
 - 👀 I’m interested in coding on Scratch, Code.org, 3D-Printing and Python. 
 - 🌱 I’m currently learning how to code on Python and 3D-Printing 
 - 💞️ I’m looking to collaborate on different group projects. Instead of doing solo projects.
